@@ -17,7 +17,7 @@ HL7 v2 parser, serializer, validator and tcp client/server for NodeJS
 ## Installation
 
 ```bash
-$ npm install hl7v2 --save
+$ npm install rology-hl7v2 --save
 ```
 
 ## Node Compatibility
@@ -26,7 +26,7 @@ $ npm install hl7v2 --save
   
 ## Change log
 
-To see changelog click [here](https://github.com/panates/hl7v2/commits/master)
+To see changelog click [here](https://github.com/momenh/hl7v2/commits/master)
 
   
 ### License
